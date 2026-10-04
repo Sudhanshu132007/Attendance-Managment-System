@@ -1,0 +1,17 @@
+========================================
+          ATTENDANCE RECORD
+
+          DATE : 4/10/2026 
+========================================
+
+
+Roll No.        Name            Status
+----------------------------------------
+71               Abhisheki        P
+72               Ankit            A
+73               Chirag           A
+74               Himesh           P
+5                Rahul            A
+6                Rohit            P
+7                Satyam           A
+8                Sudhanshu        A
